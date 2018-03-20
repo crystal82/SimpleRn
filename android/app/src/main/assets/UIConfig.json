@@ -1,0 +1,33 @@
+﻿{
+  /* 集贤公模*//*
+  "app_id": "4418f980354d4d4eb05bf6225a93f3a7",
+  "app_secret": "ccf33c3779d74686a0df16396add7bcd",
+  "product_key": ["3e04dcdb4c4a4ec09a2b803780d949da"],
+  "product_secret": "9c71129a008f4c9bbe086a70bf65cc8c",
+*/
+
+   "app_id": "271e9e5784954ad6a9c38c07eb78d95b",
+   "app_secret": "261a30faf5214d1daa718150cb44abc9",
+   "product_key": ["ee1ecc1bdf4f41ee88d28d0e54d0fde4"],
+   "product_secret": "7a2f1dc9b61b4d8bb05f145f26b42ee4",
+
+  "openAPI_URL": "",
+  "site_URL": "",
+  "push_URL": "",
+  "UsingTabSet": true,
+  "wifi_type_select": true,
+  "tencent_app_id": "1106308122",
+  "wechat_app_id": "wx212797a27cce1a8d",
+  "wechat_app_secret": "8d589c9559449c3b3552662007d8f347",
+  "push_type": 0,
+  "bpush_app_key": "your_bpush_api_key",
+  "buttonColor": "1976D2",
+  "buttonTextColor": "ffffff",
+  "navigationBarColor": "1976D2",
+  "navigationBarTextColor": "ffffff",
+  "configProgressViewColor": "000000",
+  "addDeviceTitle": "",
+  "qq": true,
+  "wechat": true,
+  "anonymousLogin": true
+}
